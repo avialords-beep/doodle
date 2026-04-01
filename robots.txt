@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /play.html
+Disallow: /site.html
+Disallow: /bot.html
+
+User-agent: Yandex
+Allow: /
+Disallow: /play.html
+Disallow: /site.html
+Disallow: /bot.html
+Clean-param: utm_source&utm_medium&utm_campaign&click_id
+
+Host: doodlejumpcasino.ru
+Sitemap: https://doodlejumpcasino.ru/sitemap.xml
